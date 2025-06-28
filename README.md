@@ -126,6 +126,3 @@ an issue or submit a pull request.
 For questions or collaboration:
 - GitHub: `AhsanNFt`
 - Email: `syedahsan0991@gmail.com`
-=======
-# Iris-Exploratory-Data-Analysis
->>>>>>> e7d196dca024bbe334180a6f1fe5567702105a24
